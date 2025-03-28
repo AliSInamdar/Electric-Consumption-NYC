@@ -1,0 +1,8 @@
+# Technical Requirements for this project.
+
+1. Pandas
+2. Numpy
+3. FB-Prophet
+4. Scikit-Learn
+5. Matplotlib
+6. Seaborn
